@@ -45,7 +45,7 @@ that i used to create some sample Test cases.
 ### JUnit4
 
 - I combined Testcontainers, JUnit4, MockMVC for creating sample Unit (Only JUnit4)  and Integration test cases for help people learn more about testing.
-Will you find some base test classes and upon then, you can develop own Test cases
+You will find some base test classes and upon then, you can develop own Test cases
 
 ## Documentation
 
@@ -67,5 +67,5 @@ improve clean code.
 ## Validation API
 
 - Is a Java lib to provides Validations upon a request for example, you can annotate a field of your DTO with @NotBlank,
-if your endpoint receives a Request Body with a empty string in this field, then the application will throw an error.
+if your endpoint receives a Request Body with an empty string in this field, then the application will throw an error.
 

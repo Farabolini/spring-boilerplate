@@ -2,7 +2,7 @@
 
 This is a boilerplate project that i made for speed up developing process of a backend application with Spring and MySQL,
 other tecnologies and libraries are used in this project, i will detail further in next topics.
-All configurations issues are resolved, only clone and code, in next steps i will explain how to do this.
+All configurations issues are done, only clone and code, in next steps i will explain how to do this.
 The boilerplate project contains some sample classes, like Models, Repositories, Services and others. 
 Feel free to delete those and code your own classes.
 
@@ -57,8 +57,7 @@ Will you find some base test classes and upon then, you can develop own Test cas
 
 ## Environment variables
 
-- I created a .env file to save my environment variables and use in docker-compose, feel free to add this file in .gitignore and hide your variables if you want
-to commit your application somewhere
+- I created a .env file to save my environment variables and use in docker-compose.yml. Feel free to add this file in .gitignore and hide your variables if you want to commit your application somewhere
 
 ## Lombok
 
